@@ -8,7 +8,7 @@ Type cd followed by the directory path you want to navigate to. For example:
 ![image](https://github.com/smaran24/conda-env-cmd-shortcuts/assets/88144150/24a1af27-547f-4df3-b728-22ea93d8b974)
 
 #### 3. Navigating to Different Drives:
-#### If you need to change drives (e.g., from C: to D:), type the drive letter followed by a colon (:) and press Enter first.
+If you need to change drives (e.g., from C: to D:), type the drive letter followed by a colon (:) and press Enter first.
 ![image](https://github.com/smaran24/conda-env-cmd-shortcuts/assets/88144150/604abc5c-2ef0-4d64-9b1a-848c4caa4ae2)
 
 ### Special Cases:
@@ -20,3 +20,7 @@ Type cd followed by the directory path you want to navigate to. For example:
 
 #### 6. To move directly to the root directory of the current drive:
 cd \
+
+
+# Conda environment
+------------------------------------------------------------------------------------------------------------------
